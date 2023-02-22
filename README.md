@@ -18,8 +18,11 @@ CUDA 11.0
 1. Download BSD500 Dataset
 
 2. make "BSD500" folder and put in images
+
 Ex: 
+
 test_data - barbara.tif, boats.tif, ...
+
 BSD500 - 2018.jpg, 2092jpg, ...
 
 3. Run train_patch3_IFBN_n3.py
