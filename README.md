@@ -8,7 +8,9 @@ Thanks to the work of Karl Schulz, the code of this repository borrow from his I
 
 # Requirements
 Python 3.7
+
 pytorch 1.7.1
+
 CUDA 11.0
 
 # Training
