@@ -25,7 +25,7 @@ test_data - barbara.tif, boats.tif, ...
 
 BSD500 - 2018.jpg, 2092jpg, ...
 
-3. Run train_patch3_IFBN_n3.py
+3. Run train_patch3_IFBN_n3.py at least 400 epoch
 
 # Citation
 Please cite our paper if the code is helpful to your research.
